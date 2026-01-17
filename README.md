@@ -104,6 +104,13 @@ Dedicated search input component:
 - Real-time search as user types
 - Proper styling and placeholder text
 - Clear button functionality
+PS E:\INTERNSHALA ASSIGNMENT\PROJECT\PROJECT> rmdir /s node_modules
+Remove-Item : A positional parameter cannot be found that accepts argument 'node_modules'.
+At line:1 char:1
++ rmdir /s node_modules
++ ~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Remove-Item], ParameterBindingException      
+                                                                                                  Compress-Archive                                                                                    The archive file 'E:\INTERNSHALA ASSIGNMENT\PROJECT\PROJECT\react-native-task-patan.zip' crea    tion is in progress...                                                                           [ooooooooooooooooooooooooooooooooooooooo                                              ]                                                                                                       tive-task-patan.zip"
 
 ## 🎯 Features Implementation
 

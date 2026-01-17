@@ -11,7 +11,10 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "platforms": ["ios", "android"],
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "ios": {
       "supportsTablet": true
     },
@@ -21,6 +24,11 @@
       },
       "package": "com.yourname.postsapp",
       "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ea6f3f0a-1089-4362-b623-92ddc641a23b"
+      }
     }
   }
 }
